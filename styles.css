@@ -37,7 +37,7 @@
       }
       
     .sidenav {
-        width: 250px;
+        width: 0px;
         height: 100vh;
         background-color: #ffffff;
         overflow-y: auto;
@@ -154,7 +154,7 @@
           }
           
         .sidenav {
-            width: 250px;
+            width: 0px;
             height: 100vh;
             background-color: #ffffff;
             overflow-y: auto;
@@ -260,10 +260,7 @@
             text-align: center;
             align-items: center;
         }
-        .sidenav{
-            width: 100%;
-        
-        }
+     
         .sidenav .closebtn {
             position: absolute;
             top: 0;
